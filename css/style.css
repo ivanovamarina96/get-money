@@ -1142,9 +1142,6 @@ a {
   .footer {
     margin-top: 106px;
   }
-  html {
-    overflow-x: hidden;
-}
 
 .body {
   overflow-x: hidden;
