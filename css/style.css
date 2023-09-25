@@ -1142,7 +1142,12 @@ a {
   .footer {
     margin-top: 106px;
   }
-  html, body {
+  html {
     overflow-x: hidden;
 }
+
+.body {
+  overflow-x: hidden;
+}
+
 }
