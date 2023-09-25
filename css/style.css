@@ -1096,7 +1096,7 @@ a {
   }
 
   .text-footers {
-    font-size: 14px;
+    font-size: 12px;
   }
 
   .button-4 {
@@ -1142,4 +1142,11 @@ a {
   .footer {
     margin-top: 106px;
   }
+
+
+
+  html, body {
+
+    overflow-x: hidden;
+}
 }
