@@ -1102,7 +1102,7 @@ a {
   .button-4 {
     width: 190px;
     height: 40px;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .text-footer {
@@ -1142,9 +1142,4 @@ a {
   .footer {
     margin-top: 106px;
   }
-
-.body {
-  overflow-x: hidden;
-}
-
 }
